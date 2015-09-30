@@ -17,7 +17,8 @@ int main()
 	printf ("git Another scenario_master\n");
 
 	printf ("github\n");
-
+	
+	printf ("ParkHJung\n");
 <<<<<<< HEAD
 =======
 	printf ("git Another scenario\n");
