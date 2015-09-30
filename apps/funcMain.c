@@ -11,6 +11,7 @@ int main()
 
 
 	printf ("git branch\n");
+	printf ("git branch2\n");
 
 
 	return 0;
