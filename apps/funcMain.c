@@ -16,5 +16,12 @@ int main()
 
 	printf ("git Another scenario_master\n");
 
+	printf ("github\n");
+
+<<<<<<< HEAD
+=======
+	printf ("git Another scenario\n");
+
+>>>>>>> bug45
 	return 0;
 }
