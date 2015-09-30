@@ -9,5 +9,9 @@ int main()
 	func2();
 	printf ("git print2\n");
 
+
+	printf ("git branch\n");
+
+
 	return 0;
 }
