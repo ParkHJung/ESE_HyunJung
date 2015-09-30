@@ -5,7 +5,9 @@
 int main()
 {
 	func1();
+	printf ("git print\n");
 	func2();
+	printf ("git print2\n");
 
 	return 0;
 }
