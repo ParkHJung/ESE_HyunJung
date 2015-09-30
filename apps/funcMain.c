@@ -14,5 +14,7 @@ int main()
 	printf ("git branch2\n");
 	printf ("git branch3\n");
 
+	printf ("git Another scenario_master\n");
+
 	return 0;
 }
